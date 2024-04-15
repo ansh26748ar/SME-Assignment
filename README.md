@@ -11,7 +11,7 @@ By removing the `#include PlayerController.h` statement from `PlayerView.h` and 
 Overall, addressing circular dependencies is essential for ensuring code modularity, scalability, and ease of maintenance in software development projects. By employing techniques like forward declaration, developers can effectively manage dependencies and build robust, flexible systems.
 
 
-# CONTENT WRITNG
+# CONTENT WRITING
 # Designing the Weapon System for a First Person Shooter Game
 
 Welcome to the brainstorming session for designing the weapon system of our first-person shooter game! In this educational content, we'll delve into the architecture of the weapon system, discussing the classes, their responsibilities, and how they communicate with each other to create an immersive gaming experience.
